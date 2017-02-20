@@ -49,3 +49,4 @@ This is my stack of good practices and things that is nice to know.
 * Yarn - A google tool to replace npm - https://yarnpkg.com/
 * No more pure JS... use ES6 / Typescript
 * Take a look of https://zeit.co/now and the concept of micro-services
+* Learn JS from https://github.com/getify/You-Dont-Know-JS
