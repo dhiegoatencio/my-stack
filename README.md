@@ -50,3 +50,5 @@ This is my stack of good practices and things that is nice to know.
 * No more pure JS... use ES6 / Typescript
 * Take a look of https://zeit.co/now and the concept of micro-services
 * Learn JS from https://github.com/getify/You-Dont-Know-JS
+
+* Declarative vs Imperative programming web: http://codenugget.co/2015/03/05/declarative-vs-imperative-programming-web.html
